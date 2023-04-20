@@ -1,0 +1,911 @@
+@media (max-width: 320px) {
+    .sk-folding-cube {
+        margin: 81% auto;
+   }
+    .label_skitter p {
+        font-size: 12px;
+   }
+    .search-overlay .inner-search {
+        margin-top: 40%;
+   }
+    .top-cat h3 {
+        font-size: 22px;
+   }
+    .top-cat h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .devlopment h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .top-cat .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .new-pro .products h3 {
+        font-size: 22px;
+   }
+    .new-pro .products h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .new-pro .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .fruits h3 {
+        font-size: 22px;
+   }
+    .fruits .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .fruits h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .acc-mob h3 {
+        font-size: 22px;
+   }
+    .acc-mob h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .offers h3 {
+        font-size: 22px;
+   }
+    .offers h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .home-applines h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .health-tools h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .acc-mob .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .our-client h3 {
+        font-size: 22px;
+   }
+    .our-client h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .clothes h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .makeup h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .makeup .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .our-client .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .health-tools .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .home-applines .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .devlopment .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .clothes .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .acc-mob .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .fruits .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .footer h3 {
+        font-size: 20px;
+   }
+    .footer .links a {
+        font-size: 15px;
+   }
+    .footer p {
+        font-size: 14px;
+   }
+    footer .copyright ul li {
+        margin-left: 20px;
+   }
+    .footer .copyright p {
+        font-size: 14px;
+   }
+    .footer .copyright ul li a {
+        font-size: 12px;
+   }
+}
+@media (min-width: 360px) {
+    .modals .modal-1 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .modals .modal-2 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .sk-folding-cube {
+        margin: 81% auto;
+   }
+    .label_skitter p {
+        font-size: 12px;
+   }
+    .search-overlay .inner-search {
+        margin-top: 40%;
+   }
+    .top-cat h3 {
+        font-size: 22px;
+   }
+    .top-cat h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .offers h3 {
+        font-size: 22px;
+   }
+    .offers h3::after {
+        right: 17px;
+        width: 40%;
+        ;
+   }
+    .top-cat .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .new-pro .products h3 {
+        font-size: 22px;
+   }
+    .new-pro .products h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .new-pro .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .fruits h3 {
+        font-size: 22px;
+   }
+    .fruits .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .fruits h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .acc-mob h3 {
+        font-size: 22px;
+   }
+    .acc-mob h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .acc-mob .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .our-client h3 {
+        font-size: 22px;
+   }
+    .our-client h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .devlopment h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .home-applines h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .makeup h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .health-tools h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .clothes h3::after {
+        right: 17px;
+        width: 40%;
+   }
+    .our-client .owl-carousel.owl-rtl {
+        margin-top: 55px;
+   }
+    .makeup .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .health-tools .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .home-applines .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .devlopment .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .clothes .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .acc-mob .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .fruits .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .footer h3 {
+        font-size: 20px;
+   }
+    .footer .links a {
+        font-size: 15px;
+   }
+    .footer p {
+        font-size: 14px;
+   }
+    footer .copyright ul li {
+        margin-left: 20px;
+   }
+    .footer .copyright p {
+        font-size: 14px;
+   }
+    .footer .copyright ul li a {
+        font-size: 12px;
+   }
+}
+@media (min-width: 375px) {
+    .sk-folding-cube {
+        margin: 100% auto;
+   }
+}
+@media (min-width: 411px) {
+    .modals .modal-1 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .modals .modal-2 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .sk-folding-cube {
+        margin: 87% auto;
+   }
+}
+@media (min-width: 576px) {
+    .modals .modal-1 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .modals .modal-2 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .footer h3 {
+        font-size: 30px;
+   }
+    .footer .links a {
+        font-size: 18px;
+   }
+    .footer p {
+        font-size: 20px;
+   }
+    .footer .copyright p {
+        font-size: 20px;
+   }
+    .footer .copyright ul li a {
+        font-size: 18px;
+        margin-bottom: 5px;
+   }
+    .top-cat h3::after {
+        width: 25%;
+   }
+    .new-pro .products h3::after {
+        width: 25%;
+   }
+    .fruits h3::after {
+        width: 25%;
+   }
+    .acc-mob h3::after {
+        width: 25%;
+   }
+    .offers h3::after {
+        width: 25%;
+   }
+    .home-applines h3::after {
+        width: 25%;
+   }
+    .health-tools h3::after {
+        width: 25%;
+   }
+    .makeup h3::after {
+        width: 25%;
+   }
+    .our-client h3::after {
+        width: 25%;
+   }
+    .devlopment h3::after {
+        width: 25%;
+   }
+    .clothes h3::after {
+        width: 25%;
+   }
+    .makeup .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .health-tools .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .home-applines .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .devlopment .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .clothes .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .acc-mob .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .fruits .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+   }
+}
+@media (min-width: 768px) {
+    .modals .modal-1 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .modals .modal-2 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .search-overlay .inner-search {
+        margin-top: 27%;
+   }
+    .sk-folding-cube {
+        margin: 40% auto;
+   }
+    .local-ads {
+        text-align: center;
+   }
+    .top-cat h3::after {
+        right: 47px;
+        width: 19%;
+   }
+    .top-cat h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .new-pro .products h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .fruits h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .offers h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .acc-mob h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .home-applines h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .health-tools h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .our-client h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .car-cat .skitter {
+        position: relative;
+        right: 0%;
+   }
+    .car-cat .cat {
+        position: relative;
+        right: 3%;
+   }
+    .devlopment h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .clothes h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .makeup h3::after {
+        right: 30px;
+        width: 19%;
+   }
+    .health-tools .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .makeup .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .home-applines .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .devlopment .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .clothes .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .acc-mob .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .fruits .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 14px 
+}
+.footer .links a {
+    font-size: 16px;
+}
+.footer p {
+    font-size: 14px;
+}
+.footer .copyright p {
+    font-size: 16px;
+}
+.footer .copyright ul li a {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+@media (min-width: 922px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 12px;
+        padding-right: 0px;
+   }
+    .modals .modal-1 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .modals .modal-2 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .search-overlay .inner-search {
+        margin-top: 0%;
+   }
+    .sk-folding-cube {
+        margin: 35% auto;
+   }
+    .top-cat h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .offers h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .new-pro .products h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .fruits h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .acc-mob h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .home-applines h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .health-tools h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .our-client h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .devlopment h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .clothes h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .makeup h3::after {
+        right: 115px;
+        width: 15%;
+   }
+    .makeup .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .health-tools .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .home-applines .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .devlopment .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .clothes .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .acc-mob .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .fruits .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+}
+@media (min-width: 1024px) {
+    .modals .modal-1 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .modals .modal-2 .btn-primary {
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+   }
+    .search-overlay .inner-search {
+        margin-top: 0%;
+   }
+    .sk-folding-cube {
+        margin: 35% auto;
+   }
+    .top-cat h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .offers h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .new-pro .products h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .fruits h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .acc-mob h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .home-applines h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .health-tools h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .our-client h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .devlopment h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .clothes h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .makeup h3::after {
+        right: 45px;
+        width: 15%;
+   }
+    .makeup .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .health-tools .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .home-applines .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .devlopment .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        border: 1px solid var(--main--color);
+        margin-left: 10px;
+   }
+    .clothes .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .acc-mob .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+    .fruits .more .btn:not(:disabled):not(.disabled){
+        width: auto;
+        margin-left: 10px;
+   }
+}
+@media (min-width: 1200px) {
+   
+    .upper-bar .uk-card-body {
+        padding: 0;
+        min-width: 340px;
+    }
+    .navbar-nav .dropdown-menu {
+        position: absolute;
+        left: -100px;
+      }
+    .modals .modal-1 .btn-primary {
+        border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+   }
+    .modals .modal-2 .btn-primary {
+        border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+   }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        margin-left: 5px;
+   }
+    .car-cat .skitter {
+        text-align: center;
+   }
+    .sk-folding-cube {
+        margin: 32% auto;
+   }
+    .top-cat h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .new-pro .products h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .offers h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .fruits h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .acc-mob h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .home-applines h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .makeup h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .health-tools h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .our-client h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .devlopment h3::after {
+        right: 85px;
+        width: 12%;
+   }
+    .clothes h3::after {
+        right: 85px;
+        width: 12%;
+   }
+}
+@media (min-width: 1326px) {
+    .navbar-nav .dropdown-menu {
+        position: absolute;
+        left: -100px;
+      }
+    .search-overlay .inner-search {
+        margin-top: -8%;
+   }
+    .sk-folding-cube {
+        margin: 23% auto;
+   }
+    .top-cat h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .top-cat h3::before {
+        width: 80%;
+   }
+    .new-pro .products h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .new-pro .products h3::before {
+        width: 80%;
+   }
+    .fruits h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .fruits h3::before {
+        width: 80%;
+   }
+    .acc-mob h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .acc-mob h3::before {
+        width: 80%;
+   }
+    .our-client h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .our-client h3::before {
+        width: 80%;
+   }
+    .clothes h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .clothes h3::before {
+        width: 80%;
+   }
+    .offers h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .offers h3::before {
+        width: 80%;
+   }
+    .devlopment h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .devlopment h3::before {
+        width: 80%;
+   }
+    .home-applines h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .home-applines h3::before {
+        width: 8%;
+        right: 129px;
+   }
+    .health-tools h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .makeup h3::after {
+        width: 8%;
+        right: 195px;
+   }
+    .clothes h3::before {
+        width: 8%;
+        right: 129px;
+   }
+    .clothes h3::after {
+        width: 8%;
+        right: 195px;
+   }
+}

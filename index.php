@@ -10,8 +10,8 @@
                     <ul>
                         <li>
                             <a href="#cut">
-        <img src="images/slider/slider-1.jpg" class="cut" />
-      </a>
+                                <img src="images/slider/slider-1.jpg" class="cut" />
+                            </a>
                             <div class="label_text">
                                 <p>
                                     محاكاة صورة معروضة على شاشة +Galaxy S10 في أعلى الصفحة لأغراض التوضيح.
@@ -21,8 +21,8 @@
                         </li>
                         <li>
                             <a href="#swapBlocks">
-        <img src="images/slider/slider-2.jpg" class="swapBlocks" />
-      </a>
+                                <img src="images/slider/slider-2.jpg" class="swapBlocks" />
+                            </a>
                             <div class="label_text">
                                 <p>
                                     عرض صورة هاتفي +Galaxy Note10, Note10 في أعلى الصفحة لغرض التوضيح فقط.
@@ -108,51 +108,59 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
-                    <a href="images/new-products/1.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
-          <img class="effect-1"src="images/new-products/1.jpg"  width="282" height="252"/>
-        </a>
+                    <a href="images/new-products/1.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}'
+                        data-caption="Caption for SVG file">
+                        <img class="effect-1" src="images/new-products/1.jpg" width="282" height="252" />
+                    </a>
                 </div>
                 <div class="col-lg-3">
-                    <a href="images/new-products/3.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
-          <img class="effect-2" src="images/new-products/3.jpg" width="282" height="252" />
-        </a>
-                </div>
-
-                <div class="col-lg-3">
-                    <a href="images/new-products/5.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
-        <img class="effect-3" src="images/new-products/5.jpg" width="282" height="252" />
-      </a>
-                </div>
-                <div class="col-lg-3">
-                    <a href="images/new-products/7.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
-        <img class="effect-4" src="images/new-products/7.jpg"  width="282" height="252"/>
-        
-      </a>
-                </div>
-                <div class="col-lg-3">
-                    <a href="images/home-applines/8.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
-        <img class="effect-5" src="images/home-applines/8.jpg" width="282" height="252" />
-        
-      </a>
+                    <a href="images/new-products/3.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}'
+                        data-caption="Caption for SVG file">
+                        <img class="effect-2" src="images/new-products/3.jpg" width="282" height="252" />
+                    </a>
                 </div>
 
                 <div class="col-lg-3">
-                    <a href="images/home-applines/12.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
-        <img class="effect-6" src="images/home-applines/12.jpg" width="282" height="252" />
-        
-      </a>
+                    <a href="images/new-products/5.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}'
+                        data-caption="Caption for SVG file">
+                        <img class="effect-3" src="images/new-products/5.jpg" width="282" height="252" />
+                    </a>
                 </div>
                 <div class="col-lg-3">
-                    <a href="images/home-applines/14.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
-        <img class="effect-7" src="images/home-applines/14.jpg" width="282" height="252" />
-        
-      </a>
+                    <a href="images/new-products/7.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}'
+                        data-caption="Caption for SVG file">
+                        <img class="effect-4" src="images/new-products/7.jpg" width="282" height="252" />
+
+                    </a>
                 </div>
                 <div class="col-lg-3">
-                    <a href="images/home-applines/16.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
-        <img class="effect-8" src="images/home-applines/16.jpg" width="282" height="252" />
-        
-      </a>
+                    <a href="images/home-applines/8.jpg" data-fancybox="images-preview" data-thumbs='{"autoStart":true}'
+                        data-caption="Caption for SVG file">
+                        <img class="effect-5" src="images/home-applines/8.jpg" width="282" height="252" />
+
+                    </a>
+                </div>
+
+                <div class="col-lg-3">
+                    <a href="images/home-applines/12.jpg" data-fancybox="images-preview"
+                        data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
+                        <img class="effect-6" src="images/home-applines/12.jpg" width="282" height="252" />
+
+                    </a>
+                </div>
+                <div class="col-lg-3">
+                    <a href="images/home-applines/14.jpg" data-fancybox="images-preview"
+                        data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
+                        <img class="effect-7" src="images/home-applines/14.jpg" width="282" height="252" />
+
+                    </a>
+                </div>
+                <div class="col-lg-3">
+                    <a href="images/home-applines/16.jpg" data-fancybox="images-preview"
+                        data-thumbs='{"autoStart":true}' data-caption="Caption for SVG file">
+                        <img class="effect-8" src="images/home-applines/16.jpg" width="282" height="252" />
+
+                    </a>
                 </div>
             </div>
 
@@ -211,10 +219,10 @@
                             <i class="far fa-star star-4"></i>
                             <i class="far fa-star star-5"></i>
                         </div>
-                        
+
                         <p class="card-text"> صناعات المطابع كان لوريم إيبسو</p>
                         <form action="" class="form-group text-center">
-                             <input class="form-control" type="number" placeholder="الكميه بالكيلو">
+                            <input class="form-control" type="number" placeholder="الكميه بالكيلو">
                         </form>
                         <div class="icons">
                             <i class="far fa-heart"></i>
@@ -239,7 +247,7 @@
                         </div>
                         <p class="card-text"> صناعات المطابع كان لوريم إيبسو</p>
                         <form action="" class="form-group text-center">
-                             <input class="form-control" type="number" placeholder="الكميه بالكيلو">
+                            <input class="form-control" type="number" placeholder="الكميه بالكيلو">
                         </form>
                         <div class="icons">
                             <i class="far fa-heart"></i>
@@ -285,7 +293,7 @@
                         </div>
                         <p class="card-text"> صناعات المطابع كان لوريم إيبسو</p>
                         <form action="" class="form-group text-center">
-                             <input class="form-control" type="number" placeholder="الكميه بالكيلو">
+                            <input class="form-control" type="number" placeholder="الكميه بالكيلو">
                         </form>
                         <div class="icons">
                             <i class="far fa-heart"></i>
@@ -316,7 +324,8 @@
         <div class="owl-carousel owl-theme ">
             <div class="item">
                 <div class="card">
-                    <img src="images/accs-mobiles/1.jpg" class="card-img-top img-1" alt="phone" width="282" height="220">
+                    <img src="images/accs-mobiles/1.jpg" class="card-img-top img-1" alt="phone" width="282"
+                        height="220">
                     <div class="card-body">
                         <div class="stars">
                             <i class="far fa-star star-1"></i>
@@ -337,7 +346,8 @@
 
             <div class="item">
                 <div class="card">
-                    <img src="images/accs-mobiles/3.jpg" class="card-img-top  img-2" alt="phone" width="282" height="220">
+                    <img src="images/accs-mobiles/3.jpg" class="card-img-top  img-2" alt="phone" width="282"
+                        height="220">
                     <div class="card-body">
 
                         <div class="stars">
@@ -358,7 +368,8 @@
             </div>
             <div class="item">
                 <div class="card">
-                    <img src="images/accs-mobiles/5.jpg" class="card-img-top  img-3" alt="phone" width="282" height="220">
+                    <img src="images/accs-mobiles/5.jpg" class="card-img-top  img-3" alt="phone" width="282"
+                        height="220">
                     <div class="card-body">
                         <div class="stars">
                             <i class="far fa-star star-11"></i>
@@ -378,7 +389,8 @@
             </div>
             <div class="item">
                 <div class="card">
-                    <img src="images/accs-mobiles/7.jpg" class="card-img-top  img-4" alt="phone" width="282" height="220">
+                    <img src="images/accs-mobiles/7.jpg" class="card-img-top  img-4" alt="phone" width="282"
+                        height="220">
                     <div class="card-body">
                         <div class="stars">
                             <i class="far fa-star star-16"></i>
@@ -460,7 +472,8 @@
 
             <div class="item">
                 <div class="card">
-                    <img src="images/clothes/10.jpg" class="card-img-top  cloths-2" alt="phone" width="285" height="230">
+                    <img src="images/clothes/10.jpg" class="card-img-top  cloths-2" alt="phone" width="285"
+                        height="230">
                     <div class="card-body">
 
                         <div class="stars">
@@ -486,7 +499,8 @@
             </div>
             <div class="item">
                 <div class="card">
-                    <img src="images/clothes/11.jpg" class="card-img-top  cloths-3" alt="phone" width="285" height="230">
+                    <img src="images/clothes/11.jpg" class="card-img-top  cloths-3" alt="phone" width="285"
+                        height="230">
                     <div class="card-body">
                         <div class="stars">
                             <i class="far fa-star star-11"></i>
@@ -510,7 +524,8 @@
             </div>
             <div class="item">
                 <div class="card">
-                    <img src="images/clothes/12.jpg" class="card-img-top  cloths-4" alt="phone" width="285" height="230">
+                    <img src="images/clothes/12.jpg" class="card-img-top  cloths-4" alt="phone" width="285"
+                        height="230">
                     <div class="card-body">
                         <div class="stars">
                             <i class="far fa-star star-16"></i>
